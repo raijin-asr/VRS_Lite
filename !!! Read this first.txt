@@ -1,0 +1,10 @@
+---------------------------VRS(Vehicle Rental System) Lite-----------------------------------
+ READ THIS FIRST:
+ 1. First you must put this Full Folder named "VRS" in E: Disk
+ 2. Then Run "Corona VRS.exe" to launch the system(VRS) using Dev C/C++ Compiler only
+ 3. If you want to edit coding part, run "Corona VRS.cpp" in Dev C/C++ only
+ 4. Don't run in Turbo C++ because it may not work properly 
+
+***Note: Login Username: admin   &   Password: admin
+
+		***THANK YOU***

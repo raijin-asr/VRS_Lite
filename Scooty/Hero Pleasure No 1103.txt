@@ -1,0 +1,17 @@
+			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Scooty Number | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  1.	  | Black   | 1103	    | 1150/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Scooty Number	: 	1103
+ 						  -> Lot No     	: 	92
+						  -> Engine(CC)		: 	110
+						  -> Mileage(km)	: 	32 kms
+						  -> Kilometers 	: 	22,410 kms
+						  -> Make Year  	: 	2067 B.S
+						  -> Anchal     	: 	Bagmati

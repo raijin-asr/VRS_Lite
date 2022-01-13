@@ -1,0 +1,31 @@
+
+-----------------------------------------------------------------------------------
+ Full Name       : ameer rai
+ Vehicle Type    : Bike
+ Vehicle Number  : 1501
+ Pickup Location : ktm
+ Pick up date    : 2011/11/11
+ Rental Duration : 11(days)
+ Advance Deposit : Rs.100/-
+ Return Location : ktm
+ Your Return Date is: Year:2011   Month:11   Day:22
+-----------------------------------------------------------------------------------
+ Full Name       : badri tmg
+ Vehicle Type    : Bike
+ Vehicle Number  : 1802
+ Pickup Location : ktm
+ Pick up date    : 2020/11/11
+ Rental Duration : 11(days)
+ Advance Deposit : Rs.11/-
+ Return Location : ktm
+ Your Return Date is: Year:2020   Month:11   Day:22
+-----------------------------------------------------------------------------------
+ Full Name       : bishal puri
+ Vehicle Type    : Bike
+ Vehicle Number  : 1501
+ Pickup Location : ktm
+ Pick up date    : 2011/11/11
+ Rental Duration : 11(days)
+ Advance Deposit : Rs.1000/-
+ Return Location : ktm
+ Your Return Date is: Year:2011   Month:11   Day:22

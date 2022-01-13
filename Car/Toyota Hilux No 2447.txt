@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Silver  | 2447	    | 5050/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	2447
+						  -> Engine(CC)		: 	2446
+						  -> Kilometers 	: 	58,912 kms
+						  -> Make Year  	: 	2060 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

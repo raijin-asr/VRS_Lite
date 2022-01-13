@@ -1,0 +1,28 @@
+----------------------------------------
+Changes to VRS: innovating new VRS Lite [complete]
+-----------------------------------------
+
+
+
+
+
+>>>>>>>>>>>>>>>>>DONEEEEE<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+6. Minimized text file of vehicle list
+8. Designed new list
+5. Managed new list, files along and deleted folders
+3. Minimized list of vehicle part: 3-5 vehicles only i.e., int BikeList(); 3-5 bikes
+1. Removed Engine(honda) and Model(scooty, bus, car) part
+2. removed unwanted minimized functions
+4. commented in all part properly
+7. improved some parts
+8. search test part successful
+10. correcting and solving search part
+
+
+
+
+
+
+
+
+

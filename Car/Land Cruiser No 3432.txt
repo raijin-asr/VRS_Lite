@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  3.	  | White   | 3432	    | 6200/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	3432
+						  -> Engine(CC)		: 	3431
+						  -> Kilometers 	: 	101,142 kms
+						  -> Make Year  	: 	2041 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

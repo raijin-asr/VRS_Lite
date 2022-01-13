@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  1.	  | Grey    | 1401	    | 4500/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	1401
+						  -> Engine(CC)		: 	1400
+						  -> Kilometers 	: 	58,090 kms
+						  -> Make Year  	: 	2058 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati
