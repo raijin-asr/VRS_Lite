@@ -9,6 +9,9 @@ VRS Lite is the lite version of VRS(Vehicle Rental System). 1st semester Project
 ![image](https://user-images.githubusercontent.com/97660344/181014769-34310eef-f69b-4d6b-9c2b-03bdc46bf352.png)
 <p>fig 1: Home Menu UI </p></br>
 
+![image](https://user-images.githubusercontent.com/97660344/181024108-cc00601d-6b74-4021-ba87-3dbe63deeb8f.png)
+<p>fig 2: Login UI </p></br>
+
 ![image](https://user-images.githubusercontent.com/97660344/181013129-b69e0e97-3da8-44c5-977a-8d4b293b6c09.png)
 <p>fig 2: Main Menu UI</p></br>
 
@@ -24,7 +27,7 @@ VRS Lite is the lite version of VRS(Vehicle Rental System). 1st semester Project
 ![image](https://user-images.githubusercontent.com/97660344/181014548-72eb8bce-f900-49b9-9867-feeac2816e55.png)
 <p>fig 6: Four Wheeler UI </p></br>
 
-![image](https://user-images.githubusercontent.com/97660344/181016419-b25e7a39-9c39-481e-8b90-f91fcb753085.png)
+![image](https://user-images.githubusercontent.com/97660344/181024234-945f0675-81cc-41d7-a89b-60412383c0f4.png)
 <p>fig 7: List of Four Wheeler(Car) </p></br>
 
 ![image](https://user-images.githubusercontent.com/97660344/181014391-dd8b0c10-bf8a-4d9d-b517-a23904fa7454.png)
