@@ -3,4 +3,4 @@ VRS Lite is the lite version of VRS(Vehicle Rental System). 1st semester Project
 <strong>Programming Language used:</strong> C Programming</br>
 <strong>IDE Used:</strong> Turbo C</br>
 
-copytright &copy; <em>VRS Lite Version</em>
+copyright &copy; <em>VRS Lite Version</em>
